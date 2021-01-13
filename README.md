@@ -5,6 +5,8 @@ A repository for my game, CubeSlider.
 1. Download the CubeSlider.zip file. NOTE: The game currently only works on windows, but
 a mac version is coming soon. [Click here to download CubeSlider.zip](CubeSlider.zip).
 
+![downloadButton](https://i.ibb.co/JvVm9Kt/Cube-Slider1.png)
+
 2. Drag CubeSlider.zip to your desktop.
 
 3. Right-click CubeSlider.zip, then click Extract all. Complete the extraction wizard.
