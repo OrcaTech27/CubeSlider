@@ -3,7 +3,7 @@ A repository for my game, CubeSlider.
 
 # How to play CubeSlider
 1. Download the CubeSlider.zip file. NOTE: The game currently only works on windows, but
-a mac version is coming soon.
+a mac version is coming soon. [Click here to download CubeSlider.zip](CubeSlider.zip).
 
 2. Drag CubeSlider.zip to your desktop.
 
