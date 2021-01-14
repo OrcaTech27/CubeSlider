@@ -1,6 +1,10 @@
 # CubeSlider
 A repository for my game, CubeSlider.
 
+# News
+
+CubeSlider 1.1 has been released for Windows and Mac!
+
 # How to play CubeSlider
 1. Download the CubeSlider.zip file. _Make sure you download the latest version._ NOTE: The game currently only works on windows, but
 a mac version is coming soon. [Click here to download CubeSlider.zip](CubeSlider.zip).
@@ -18,3 +22,7 @@ a mac version is coming soon. [Click here to download CubeSlider.zip](CubeSlider
 NOTE: You must keep the other files and folders along with CubeSlider for the game to operate properly. If these files are deleted or misplaced, the game will throw a lot of errors.
 
 Have fun playing CubeSlider! :D
+
+# Having issues?
+
+If you are having problems, send them [here](https://github.com/orcadevelop/CubeSlider/issues).
