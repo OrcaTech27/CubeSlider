@@ -3,7 +3,7 @@ A repository for my game, CubeSlider.
 
 # News
 
-A webhook for this repo has been added on my discord server!
+A webhook for this repo has been added on my discord server! :D
 
 # How to play CubeSlider
 1. Download the CubeSlider.zip file. _Make sure you download the latest version._ NOTE: The game currently only works on windows, but
